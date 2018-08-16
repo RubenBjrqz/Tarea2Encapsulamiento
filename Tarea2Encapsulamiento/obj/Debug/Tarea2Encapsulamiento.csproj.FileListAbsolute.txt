@@ -1,0 +1,6 @@
+D:\Documentos\Produccion Multimedia\Semestre 3\Programacion 3\Tarea2Encapsulamiento\Tarea2Encapsulamiento\bin\Debug\Tarea2Encapsulamiento.exe.config
+D:\Documentos\Produccion Multimedia\Semestre 3\Programacion 3\Tarea2Encapsulamiento\Tarea2Encapsulamiento\bin\Debug\Tarea2Encapsulamiento.exe
+D:\Documentos\Produccion Multimedia\Semestre 3\Programacion 3\Tarea2Encapsulamiento\Tarea2Encapsulamiento\bin\Debug\Tarea2Encapsulamiento.pdb
+D:\Documentos\Produccion Multimedia\Semestre 3\Programacion 3\Tarea2Encapsulamiento\Tarea2Encapsulamiento\obj\Debug\Tarea2Encapsulamiento.csproj.CoreCompileInputs.cache
+D:\Documentos\Produccion Multimedia\Semestre 3\Programacion 3\Tarea2Encapsulamiento\Tarea2Encapsulamiento\obj\Debug\Tarea2Encapsulamiento.exe
+D:\Documentos\Produccion Multimedia\Semestre 3\Programacion 3\Tarea2Encapsulamiento\Tarea2Encapsulamiento\obj\Debug\Tarea2Encapsulamiento.pdb
